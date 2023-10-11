@@ -1,18 +1,13 @@
-## Getting Started
+OLÁ A TODOS que estão me assistindo a partir de meu primeiro projeto, me chamo marcos Vinicius e sou um estudante NATO apaixonado por tecnologia, DESDE minha infancia smpre me maravilhei com tudo o que eu via, principalmente jogos, como eram criados, e a partir dai conheci a palavra.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+👾PROGRAMAÇÃO👾
 
-## Folder Structure
+esta pequena palavrinha mudou a forma como penso e como ainda estou pensando, então busquei realizar um sonho de minha infancia que é conhecer sobre todos estes processos.
 
-The workspace contains two folders by default, where:
+este é o meu primeiro projeto em java, o fiz de uma forma simples, porém futuramente virão maiores.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+estas mensagens que escrevo são apenas para criar uma familiaridade, a partir em diante, todos meus projetos terão esta frase como inicio, mas claro atualizadas frequentemente.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+obrigado por ler🤓
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+caso queira me acompanhar nesta jornada intrigante sobre o mundo da tecnologia, minhas redes sociais estão a disposição, como meu instagram, e meu linkedin.
